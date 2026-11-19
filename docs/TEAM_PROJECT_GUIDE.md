@@ -1,4 +1,5 @@
-# Team Project Guide — Building an App with se-agent (CSCE 5565)
+# Team Project Guide — Building an App with se-agent 
+
 
 You are building a real (small) app as a team, the way Sommerville describes software being built:
 understand the process, agree requirements, model the system, choose an architecture, implement,
